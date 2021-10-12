@@ -1,2 +1,3 @@
-# desafios-uri
-Repositório para armazenar respostas de desafios do Uri Judge
+# Destafios de programação
+
+Repositório para armazenar respostas de desafios do site  Uri Judge
