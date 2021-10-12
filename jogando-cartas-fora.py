@@ -4,6 +4,7 @@
 entrada = int(input())
 descarte = []
 
+
 while entrada != 0:
     lista = list(range(1, entrada + 1))
     
