@@ -23,8 +23,3 @@ while entrada != 0:
     descarte = []
     sobra = None
     entrada = int(input())
-
-
-    
-
-
